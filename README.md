@@ -13,4 +13,6 @@ the director of Binajasa.id seeks to gain insights into the sales performance fr
 
 6. **Seasonal Trends**: The orders by month graph shows fluctuations with peaks suggesting seasonal trends or promotional impacts.
 
+7. **Days Trends**: Saturday have most order rather than other days
+
 This dashboard highlights strategic insights, particularly in digital marketing effectiveness and the potential for further geographic expansion.
